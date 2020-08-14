@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Structure:
+### Structure:
 ● Currency name <br />
 ● Capitalization <br />
 ● Unit price <br />
@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ● Market size <br />
 ● Change in 24 hours <br />
 
-## Technology stack:
+### Technology stack:
 ● react (create-react app) <br />
 ● react-router <br />
 ● redux <br />

@@ -1,22 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Structure:
-● Currency name
-● Capitalization
-● Unit price
-● Market size
-● Change in 24 hours
-● Market size
-● Change in 24 hours
+● Currency name <br />
+● Capitalization <br />
+● Unit price <br />
+● Market size <br />
+● Change in 24 hours <br />
+● Market size <br />
+● Change in 24 hours <br />
 
 ## Technology stack:
-● react (create-react app)
-● react-router
-● redux
-● redux-saga (for updating data)
-● reselect (combo redux selectors)
-● superagent (for working with API)
-● styled-components (component styling, CSS-in-JS)
+● react (create-react app) <br />
+● react-router <br />
+● redux <br />
+● redux-saga (for updating data) <br />
+● reselect (combo redux selectors) <br />
+● superagent (for working with API) <br />
+● styled-components (component styling, CSS-in-JS) <br />
 
 ## Available Scripts
 

@@ -1,5 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Structure:
+● Currency name
+● Capitalization
+● Unit price
+● Market size
+● Change in 24 hours
+● Market size
+● Change in 24 hours
+
+## Technology stack:
+● react (create-react app)
+● react-router
+● redux
+● redux-saga (for updating data)
+● reselect (combo redux selectors)
+● superagent (for working with API)
+● styled-components (component styling, CSS-in-JS)
+
 ## Available Scripts
 
 In the project directory, you can run:
